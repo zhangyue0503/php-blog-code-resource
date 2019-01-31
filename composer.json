@@ -1,0 +1,11 @@
+{
+    "name": "zhangyue/composer",
+    "description": "zhangyue",
+    "authors": [
+        {
+            "name": "zhangyue0503",
+            "email": "zhangyue0503@hotmail.com"
+        }
+    ],
+    "require": {}
+}
