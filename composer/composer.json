@@ -7,5 +7,7 @@
             "email": "zhangyue0503@hotmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "monolog/monolog": "^1.24"
+    }
 }
